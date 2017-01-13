@@ -1,0 +1,25 @@
+[{
+    "name": "winsor",
+    "belt": "green",
+    "rate": 50,
+    "available": true,
+    "thumb": "content/img/winsor.jpg"
+}, {
+    "name": "kitsun",
+    "belt": "blue",
+    "rate": 10,
+    "available": true,
+    "thumb": "content/img/kitsun.jpg"
+}, {
+    "name": "gugu",
+    "belt": "red",
+    "rate": 20,
+    "available": true,
+    "thumb": "content/img/gugu.jpg"
+}, {
+    "name": "niel",
+    "belt": "orange",
+    "rate": 800,
+    "available": true,
+    "thumb": "content/img/niel.jpg"
+}]
